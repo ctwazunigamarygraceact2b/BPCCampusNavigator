@@ -24,7 +24,7 @@ A mobile app that helps students, visitors, and staff find buildings, offices, a
 - Git and GitHub
 
 ## Download
-Download the latest APK from the [Releases](../../releases) page.
+Download the latest APK.
 
 ## Run the Project
 1. Download or clone this repository.
