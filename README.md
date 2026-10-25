@@ -21,10 +21,7 @@ A mobile app that helps students, visitors, and staff find buildings, offices, a
 - Kotlin and Java
 - Android Studio
 - Canva (UI design)
-- Git and GitHub
-
-## Download
-Download the latest APK.
+- Git and Github
 
 ## Run the Project
 1. Download or clone this repository.
